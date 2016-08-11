@@ -10,7 +10,13 @@ color:
     - '#3F8EFC'
     - '#2667FF'
     - '#3B28CC'
+opengraph:
+  appId: diego.poncina
 layout_spectrum: 0.06221038498915732
+author:
+  name: diego poncina
+  email: diego@diegoponcina.it
+  url: www.diegoponcina.it
 name: diegoponcina.it
 title: Welcome in my IA xperience
 description: Benvenuti nella mia Esperienza in Intelligenza Artificiale
