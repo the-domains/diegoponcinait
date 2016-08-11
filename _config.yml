@@ -1,22 +1,34 @@
-typography_spectrum: 0.753249364439398
+author:
+  name: diego poncina
+  email: diego@diegoponcina.it
+  url: www.diegoponcina.it
+title: Welcome in my IA xperience
+opengraph:
+  appId: diego.poncina
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+description: Benvenuti nella mia Esperienza in Intelligenza Artificiale
 color:
-  brandStrength: 0.8416965131182224
-  lightness: 0.8790699825622141
   saturation: 0.6624077307060361
-  rhythmicContrast: 0.30108232353813946
+  brandStrength: 0.8416965131182224
+  rhythmicContrast: 0.3010823235381395
   brandColors:
     - '#ADD7F6'
     - '#87BFFF'
     - '#3F8EFC'
     - '#2667FF'
     - '#3B28CC'
-opengraph:
-  appId: diego.poncina
-layout_spectrum: 0.06221038498915732
-author:
-  name: diego poncina
-  email: diego@diegoponcina.it
-  url: www.diegoponcina.it
+  lightness: 0.8790699825622141
+typography_spectrum: 0.4617021
+layout_spectrum: 0.9404255
 name: diegoponcina.it
-title: Welcome in my IA xperience
-description: Benvenuti nella mia Esperienza in Intelligenza Artificiale
