@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-11T17:30:47.657Z'
+datePublished: '2016-08-12T09:39:48.274Z'
 sourcePath: _posts/2016-04-16-timbuk2-blue-bottles-sabbatical-travel-kit.md
 inFeed: true
 isBasedOnUrl: 'http://www.coolhunting.com/food-drink/timbuk2-blue-bottle-travel-kit-coffee'
@@ -18,12 +18,12 @@ keywords:
 related: []
 author: []
 via: {}
-dateModified: '2016-08-11T17:30:47.082Z'
+dateModified: '2016-08-12T09:39:47.763Z'
 title: Ci siamo
 app_links: []
 publisher:
-  url: 'http://www.coolhunting.com'
-  name: Cool Hunting
+  url: 'http://www.diegoponcina.it'
+  name: Diego Poncina
   favicon: 'http://assets.coolhunting.com/favicon.ico'
   domain: www.coolhunting.com
 description: >-
