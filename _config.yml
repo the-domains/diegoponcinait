@@ -11,7 +11,8 @@ color:
     - '#3B28CC'
   lightness: 0.8790699825622141
 opengraph:
-  appId: diego.poncina
+  appId: 'https://www.facebook.com/diego.poncina'
+  type: Person
 layout_spectrum: 0.9404255
 author:
   name: diego poncina
