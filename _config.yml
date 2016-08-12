@@ -18,6 +18,8 @@ author:
   name: diego poncina
   email: diego@diegoponcina.it
   url: www.diegoponcina.it
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/ce810d4b-bb96-47c4-ab85-c4364313da56.png
 name: diegoponcina.it
 navigation:
   - name: my mission
@@ -26,6 +28,8 @@ navigation:
   - name: 'Ci siamo, Chi sono...'
     id: b5b8fda6-ebc4-4620-90e2-e7774b2630d8
     type: content
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/5e612209-3555-4bc0-a4a7-e746ca930b70.png
 collections:
   - index:
       path: /
