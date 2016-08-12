@@ -22,6 +22,9 @@ navigation:
   - name: my mission
     url: 'http://www.vitadiluce.it'
     type: external
+  - name: 'Ci siamo, Chi sono...'
+    id: b5b8fda6-ebc4-4620-90e2-e7774b2630d8
+    type: content
 collections:
   - index:
       path: /
