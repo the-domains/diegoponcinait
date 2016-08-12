@@ -1,9 +1,8 @@
 ---
-datePublished: '2016-08-12T09:39:48.274Z'
+datePublished: '2016-08-12T09:54:35.087Z'
 sourcePath: _posts/2016-04-16-timbuk2-blue-bottles-sabbatical-travel-kit.md
 inFeed: true
-isBasedOnUrl: 'http://www.coolhunting.com/food-drink/timbuk2-blue-bottle-travel-kit-coffee'
-hasPage: false
+hasPage: true
 keywords:
   - sabbatical
   - timbuk2
@@ -18,7 +17,7 @@ keywords:
 related: []
 author: []
 via: {}
-dateModified: '2016-08-12T09:39:47.763Z'
+dateModified: '2016-08-12T09:54:34.473Z'
 title: Ci siamo
 app_links: []
 publisher:
@@ -33,6 +32,7 @@ description: >-
 inLanguage: en
 inNav: false
 starred: false
+url: ci-siamo/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
