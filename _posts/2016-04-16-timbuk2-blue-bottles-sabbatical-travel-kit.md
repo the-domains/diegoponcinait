@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-12T10:13:13.348Z'
+datePublished: '2016-08-12T10:13:51.557Z'
 sourcePath: _posts/2016-04-16-timbuk2-blue-bottles-sabbatical-travel-kit.md
 inFeed: true
 hasPage: true
@@ -17,7 +17,7 @@ keywords:
 related: []
 author: []
 via: {}
-dateModified: '2016-08-12T10:13:03.203Z'
+dateModified: '2016-08-12T10:13:51.090Z'
 title: Ci siamo
 app_links: []
 publisher:
@@ -37,4 +37,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a5a501dc-81e3-48b5-b41a-940c91e9a497.png)
+![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/037240bb5e60c0b0d0adf45612a65208/croprotate.png?cropheight=400&cropwidth=383&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2Fa5a501dc-81e3-48b5-b41a-940c91e9a497.png&x=37&y=0)
